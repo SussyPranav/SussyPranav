@@ -2,6 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning py/html
 - 💞️ I’m looking to collaborate on nothing tbh xD
+- The term "sus" originates from the popular online multiplayer game "Among Us."
 - 📫 How to reach me ... you cannot...
 
 <!---
